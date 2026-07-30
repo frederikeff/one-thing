@@ -9,6 +9,15 @@ wins pile up on a wall that never resets.
 
 Try it right now: **https://one-thing-ff.netlify.app**
 
+<p align="center">
+  <img src="docs/screenshots/now.png" width="250" alt="Now tab — what's your ONE thing right now?">
+  <img src="docs/screenshots/pick.png" width="250" alt="Pick a duration — let's go, just 15 minutes">
+  <img src="docs/screenshots/focus.png" width="250" alt="Focus screen — one thing, a big timer">
+  <img src="docs/screenshots/celebrate.png" width="250" alt="Done — confetti and proud moments">
+  <img src="docs/screenshots/tasks.png" width="250" alt="Tasks tab — the brain-dump pile">
+  <img src="docs/screenshots/wins.png" width="250" alt="Wins tab — counters that only go up">
+</p>
+
 ## Why it works (when other to-do apps don't)
 
 1. **Brain dump** (🧺 Tasks) — get everything out of your head, one line at a time. Nothing
